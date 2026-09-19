@@ -43,7 +43,7 @@ const Header = () => {
             fontWeight: 600,
           }}
         >
-          KoalaTech University – CD Pipeline
+          KoalaTech University – CD Auto Deploy
         </Typography>
 
         <Box
